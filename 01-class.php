@@ -63,6 +63,10 @@
             $vehicle3= new Vehicle();
             $vehicle3->setAttributes("Ford","F-150","2023","Blue");
             echo $vehicle3->getAttributes();
+
+            $vehicle4= new Vehicle();
+            $vehicle4->setAttributes("Ford","F-150","2023","Blue");
+            echo $vehicle4->getAttributes();
             
 
 
